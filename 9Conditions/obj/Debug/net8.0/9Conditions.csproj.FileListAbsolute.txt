@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/9Conditions/bin/Debug/net8.0/9Conditions
+/Users/gamma/C#nutshell/9Conditions/bin/Debug/net8.0/9Conditions.deps.json
+/Users/gamma/C#nutshell/9Conditions/bin/Debug/net8.0/9Conditions.runtimeconfig.json
+/Users/gamma/C#nutshell/9Conditions/bin/Debug/net8.0/9Conditions.dll
+/Users/gamma/C#nutshell/9Conditions/bin/Debug/net8.0/9Conditions.pdb
+/Users/gamma/C#nutshell/9Conditions/obj/Debug/net8.0/9Conditions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/9Conditions/obj/Debug/net8.0/9Conditions.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/9Conditions/obj/Debug/net8.0/9Conditions.AssemblyInfo.cs
+/Users/gamma/C#nutshell/9Conditions/obj/Debug/net8.0/9Conditions.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/9Conditions/obj/Debug/net8.0/9Conditions.dll
+/Users/gamma/C#nutshell/9Conditions/obj/Debug/net8.0/refint/9Conditions.dll
+/Users/gamma/C#nutshell/9Conditions/obj/Debug/net8.0/9Conditions.pdb
+/Users/gamma/C#nutshell/9Conditions/obj/Debug/net8.0/9Conditions.genruntimeconfig.cache
+/Users/gamma/C#nutshell/9Conditions/obj/Debug/net8.0/ref/9Conditions.dll

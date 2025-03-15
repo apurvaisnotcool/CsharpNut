@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/12NestedIf/obj/Debug/net8.0/12NestedIf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/12NestedIf/obj/Debug/net8.0/12NestedIf.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/12NestedIf/obj/Debug/net8.0/12NestedIf.AssemblyInfo.cs
+/Users/gamma/C#nutshell/12NestedIf/obj/Debug/net8.0/12NestedIf.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/12NestedIf/bin/Debug/net8.0/12NestedIf
+/Users/gamma/C#nutshell/12NestedIf/bin/Debug/net8.0/12NestedIf.deps.json
+/Users/gamma/C#nutshell/12NestedIf/bin/Debug/net8.0/12NestedIf.runtimeconfig.json
+/Users/gamma/C#nutshell/12NestedIf/bin/Debug/net8.0/12NestedIf.dll
+/Users/gamma/C#nutshell/12NestedIf/bin/Debug/net8.0/12NestedIf.pdb
+/Users/gamma/C#nutshell/12NestedIf/obj/Debug/net8.0/12NestedIf.dll
+/Users/gamma/C#nutshell/12NestedIf/obj/Debug/net8.0/refint/12NestedIf.dll
+/Users/gamma/C#nutshell/12NestedIf/obj/Debug/net8.0/12NestedIf.pdb
+/Users/gamma/C#nutshell/12NestedIf/obj/Debug/net8.0/12NestedIf.genruntimeconfig.cache
+/Users/gamma/C#nutshell/12NestedIf/obj/Debug/net8.0/ref/12NestedIf.dll

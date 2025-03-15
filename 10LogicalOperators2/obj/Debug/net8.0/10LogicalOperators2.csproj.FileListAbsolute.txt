@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/10LogicalOperators2/bin/Debug/net8.0/10LogicalOperators2
+/Users/gamma/C#nutshell/10LogicalOperators2/bin/Debug/net8.0/10LogicalOperators2.deps.json
+/Users/gamma/C#nutshell/10LogicalOperators2/bin/Debug/net8.0/10LogicalOperators2.runtimeconfig.json
+/Users/gamma/C#nutshell/10LogicalOperators2/bin/Debug/net8.0/10LogicalOperators2.dll
+/Users/gamma/C#nutshell/10LogicalOperators2/bin/Debug/net8.0/10LogicalOperators2.pdb
+/Users/gamma/C#nutshell/10LogicalOperators2/obj/Debug/net8.0/10LogicalOperators2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/10LogicalOperators2/obj/Debug/net8.0/10LogicalOperators2.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/10LogicalOperators2/obj/Debug/net8.0/10LogicalOperators2.AssemblyInfo.cs
+/Users/gamma/C#nutshell/10LogicalOperators2/obj/Debug/net8.0/10LogicalOperators2.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/10LogicalOperators2/obj/Debug/net8.0/10LogicalOperators2.dll
+/Users/gamma/C#nutshell/10LogicalOperators2/obj/Debug/net8.0/refint/10LogicalOperators2.dll
+/Users/gamma/C#nutshell/10LogicalOperators2/obj/Debug/net8.0/10LogicalOperators2.pdb
+/Users/gamma/C#nutshell/10LogicalOperators2/obj/Debug/net8.0/10LogicalOperators2.genruntimeconfig.cache
+/Users/gamma/C#nutshell/10LogicalOperators2/obj/Debug/net8.0/ref/10LogicalOperators2.dll

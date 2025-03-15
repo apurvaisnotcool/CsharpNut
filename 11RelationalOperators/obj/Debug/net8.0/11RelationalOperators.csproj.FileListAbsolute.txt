@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/11RelationalOperators/bin/Debug/net8.0/11RelationalOperators
+/Users/gamma/C#nutshell/11RelationalOperators/bin/Debug/net8.0/11RelationalOperators.deps.json
+/Users/gamma/C#nutshell/11RelationalOperators/bin/Debug/net8.0/11RelationalOperators.runtimeconfig.json
+/Users/gamma/C#nutshell/11RelationalOperators/bin/Debug/net8.0/11RelationalOperators.dll
+/Users/gamma/C#nutshell/11RelationalOperators/bin/Debug/net8.0/11RelationalOperators.pdb
+/Users/gamma/C#nutshell/11RelationalOperators/obj/Debug/net8.0/11RelationalOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/11RelationalOperators/obj/Debug/net8.0/11RelationalOperators.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/11RelationalOperators/obj/Debug/net8.0/11RelationalOperators.AssemblyInfo.cs
+/Users/gamma/C#nutshell/11RelationalOperators/obj/Debug/net8.0/11RelationalOperators.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/11RelationalOperators/obj/Debug/net8.0/11RelationalOperators.dll
+/Users/gamma/C#nutshell/11RelationalOperators/obj/Debug/net8.0/refint/11RelationalOperators.dll
+/Users/gamma/C#nutshell/11RelationalOperators/obj/Debug/net8.0/11RelationalOperators.pdb
+/Users/gamma/C#nutshell/11RelationalOperators/obj/Debug/net8.0/11RelationalOperators.genruntimeconfig.cache
+/Users/gamma/C#nutshell/11RelationalOperators/obj/Debug/net8.0/ref/11RelationalOperators.dll
