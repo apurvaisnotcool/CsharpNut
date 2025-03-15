@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/26Methods/bin/Debug/net8.0/26Methods
+/Users/gamma/C#nutshell/26Methods/bin/Debug/net8.0/26Methods.deps.json
+/Users/gamma/C#nutshell/26Methods/bin/Debug/net8.0/26Methods.runtimeconfig.json
+/Users/gamma/C#nutshell/26Methods/bin/Debug/net8.0/26Methods.dll
+/Users/gamma/C#nutshell/26Methods/bin/Debug/net8.0/26Methods.pdb
+/Users/gamma/C#nutshell/26Methods/obj/Debug/net8.0/26Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/26Methods/obj/Debug/net8.0/26Methods.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/26Methods/obj/Debug/net8.0/26Methods.AssemblyInfo.cs
+/Users/gamma/C#nutshell/26Methods/obj/Debug/net8.0/26Methods.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/26Methods/obj/Debug/net8.0/26Methods.dll
+/Users/gamma/C#nutshell/26Methods/obj/Debug/net8.0/refint/26Methods.dll
+/Users/gamma/C#nutshell/26Methods/obj/Debug/net8.0/26Methods.pdb
+/Users/gamma/C#nutshell/26Methods/obj/Debug/net8.0/26Methods.genruntimeconfig.cache
+/Users/gamma/C#nutshell/26Methods/obj/Debug/net8.0/ref/26Methods.dll

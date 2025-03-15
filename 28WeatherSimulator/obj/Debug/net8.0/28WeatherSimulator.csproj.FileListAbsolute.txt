@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/28WeatherSimulator/bin/Debug/net8.0/28WeatherSimulator
+/Users/gamma/C#nutshell/28WeatherSimulator/bin/Debug/net8.0/28WeatherSimulator.deps.json
+/Users/gamma/C#nutshell/28WeatherSimulator/bin/Debug/net8.0/28WeatherSimulator.runtimeconfig.json
+/Users/gamma/C#nutshell/28WeatherSimulator/bin/Debug/net8.0/28WeatherSimulator.dll
+/Users/gamma/C#nutshell/28WeatherSimulator/bin/Debug/net8.0/28WeatherSimulator.pdb
+/Users/gamma/C#nutshell/28WeatherSimulator/obj/Debug/net8.0/28WeatherSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/28WeatherSimulator/obj/Debug/net8.0/28WeatherSimulator.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/28WeatherSimulator/obj/Debug/net8.0/28WeatherSimulator.AssemblyInfo.cs
+/Users/gamma/C#nutshell/28WeatherSimulator/obj/Debug/net8.0/28WeatherSimulator.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/28WeatherSimulator/obj/Debug/net8.0/28WeatherSimulator.dll
+/Users/gamma/C#nutshell/28WeatherSimulator/obj/Debug/net8.0/refint/28WeatherSimulator.dll
+/Users/gamma/C#nutshell/28WeatherSimulator/obj/Debug/net8.0/28WeatherSimulator.pdb
+/Users/gamma/C#nutshell/28WeatherSimulator/obj/Debug/net8.0/28WeatherSimulator.genruntimeconfig.cache
+/Users/gamma/C#nutshell/28WeatherSimulator/obj/Debug/net8.0/ref/28WeatherSimulator.dll

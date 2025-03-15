@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/27ClassicalTemplate/bin/Debug/net8.0/27ClassicalTemplate
+/Users/gamma/C#nutshell/27ClassicalTemplate/bin/Debug/net8.0/27ClassicalTemplate.deps.json
+/Users/gamma/C#nutshell/27ClassicalTemplate/bin/Debug/net8.0/27ClassicalTemplate.runtimeconfig.json
+/Users/gamma/C#nutshell/27ClassicalTemplate/bin/Debug/net8.0/27ClassicalTemplate.dll
+/Users/gamma/C#nutshell/27ClassicalTemplate/bin/Debug/net8.0/27ClassicalTemplate.pdb
+/Users/gamma/C#nutshell/27ClassicalTemplate/obj/Debug/net8.0/27ClassicalTemplate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/27ClassicalTemplate/obj/Debug/net8.0/27ClassicalTemplate.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/27ClassicalTemplate/obj/Debug/net8.0/27ClassicalTemplate.AssemblyInfo.cs
+/Users/gamma/C#nutshell/27ClassicalTemplate/obj/Debug/net8.0/27ClassicalTemplate.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/27ClassicalTemplate/obj/Debug/net8.0/27ClassicalTemplate.dll
+/Users/gamma/C#nutshell/27ClassicalTemplate/obj/Debug/net8.0/refint/27ClassicalTemplate.dll
+/Users/gamma/C#nutshell/27ClassicalTemplate/obj/Debug/net8.0/27ClassicalTemplate.pdb
+/Users/gamma/C#nutshell/27ClassicalTemplate/obj/Debug/net8.0/27ClassicalTemplate.genruntimeconfig.cache
+/Users/gamma/C#nutshell/27ClassicalTemplate/obj/Debug/net8.0/ref/27ClassicalTemplate.dll
