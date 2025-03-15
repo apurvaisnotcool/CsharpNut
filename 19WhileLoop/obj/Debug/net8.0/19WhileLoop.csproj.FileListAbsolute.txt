@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/19WhileLoop/bin/Debug/net8.0/19WhileLoop
+/Users/gamma/C#nutshell/19WhileLoop/bin/Debug/net8.0/19WhileLoop.deps.json
+/Users/gamma/C#nutshell/19WhileLoop/bin/Debug/net8.0/19WhileLoop.runtimeconfig.json
+/Users/gamma/C#nutshell/19WhileLoop/bin/Debug/net8.0/19WhileLoop.dll
+/Users/gamma/C#nutshell/19WhileLoop/bin/Debug/net8.0/19WhileLoop.pdb
+/Users/gamma/C#nutshell/19WhileLoop/obj/Debug/net8.0/19WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/19WhileLoop/obj/Debug/net8.0/19WhileLoop.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/19WhileLoop/obj/Debug/net8.0/19WhileLoop.AssemblyInfo.cs
+/Users/gamma/C#nutshell/19WhileLoop/obj/Debug/net8.0/19WhileLoop.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/19WhileLoop/obj/Debug/net8.0/19WhileLoop.dll
+/Users/gamma/C#nutshell/19WhileLoop/obj/Debug/net8.0/refint/19WhileLoop.dll
+/Users/gamma/C#nutshell/19WhileLoop/obj/Debug/net8.0/19WhileLoop.pdb
+/Users/gamma/C#nutshell/19WhileLoop/obj/Debug/net8.0/19WhileLoop.genruntimeconfig.cache
+/Users/gamma/C#nutshell/19WhileLoop/obj/Debug/net8.0/ref/19WhileLoop.dll

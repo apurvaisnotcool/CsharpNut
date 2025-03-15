@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/18ForLoop/bin/Debug/net8.0/18ForLoop
+/Users/gamma/C#nutshell/18ForLoop/bin/Debug/net8.0/18ForLoop.deps.json
+/Users/gamma/C#nutshell/18ForLoop/bin/Debug/net8.0/18ForLoop.runtimeconfig.json
+/Users/gamma/C#nutshell/18ForLoop/bin/Debug/net8.0/18ForLoop.dll
+/Users/gamma/C#nutshell/18ForLoop/bin/Debug/net8.0/18ForLoop.pdb
+/Users/gamma/C#nutshell/18ForLoop/obj/Debug/net8.0/18ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/18ForLoop/obj/Debug/net8.0/18ForLoop.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/18ForLoop/obj/Debug/net8.0/18ForLoop.AssemblyInfo.cs
+/Users/gamma/C#nutshell/18ForLoop/obj/Debug/net8.0/18ForLoop.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/18ForLoop/obj/Debug/net8.0/18ForLoop.dll
+/Users/gamma/C#nutshell/18ForLoop/obj/Debug/net8.0/refint/18ForLoop.dll
+/Users/gamma/C#nutshell/18ForLoop/obj/Debug/net8.0/18ForLoop.pdb
+/Users/gamma/C#nutshell/18ForLoop/obj/Debug/net8.0/18ForLoop.genruntimeconfig.cache
+/Users/gamma/C#nutshell/18ForLoop/obj/Debug/net8.0/ref/18ForLoop.dll

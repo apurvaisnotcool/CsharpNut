@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/20GuessNumber/obj/Debug/net8.0/20GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/20GuessNumber/obj/Debug/net8.0/20GuessNumber.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/20GuessNumber/obj/Debug/net8.0/20GuessNumber.AssemblyInfo.cs
+/Users/gamma/C#nutshell/20GuessNumber/obj/Debug/net8.0/20GuessNumber.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/20GuessNumber/bin/Debug/net8.0/20GuessNumber
+/Users/gamma/C#nutshell/20GuessNumber/bin/Debug/net8.0/20GuessNumber.deps.json
+/Users/gamma/C#nutshell/20GuessNumber/bin/Debug/net8.0/20GuessNumber.runtimeconfig.json
+/Users/gamma/C#nutshell/20GuessNumber/bin/Debug/net8.0/20GuessNumber.dll
+/Users/gamma/C#nutshell/20GuessNumber/bin/Debug/net8.0/20GuessNumber.pdb
+/Users/gamma/C#nutshell/20GuessNumber/obj/Debug/net8.0/20GuessNumber.dll
+/Users/gamma/C#nutshell/20GuessNumber/obj/Debug/net8.0/refint/20GuessNumber.dll
+/Users/gamma/C#nutshell/20GuessNumber/obj/Debug/net8.0/20GuessNumber.pdb
+/Users/gamma/C#nutshell/20GuessNumber/obj/Debug/net8.0/20GuessNumber.genruntimeconfig.cache
+/Users/gamma/C#nutshell/20GuessNumber/obj/Debug/net8.0/ref/20GuessNumber.dll

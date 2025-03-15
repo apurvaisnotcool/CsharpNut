@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/17RandomNumber/obj/Debug/net8.0/17RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/17RandomNumber/obj/Debug/net8.0/17RandomNumber.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/17RandomNumber/obj/Debug/net8.0/17RandomNumber.AssemblyInfo.cs
+/Users/gamma/C#nutshell/17RandomNumber/obj/Debug/net8.0/17RandomNumber.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/17RandomNumber/bin/Debug/net8.0/17RandomNumber
+/Users/gamma/C#nutshell/17RandomNumber/bin/Debug/net8.0/17RandomNumber.deps.json
+/Users/gamma/C#nutshell/17RandomNumber/bin/Debug/net8.0/17RandomNumber.runtimeconfig.json
+/Users/gamma/C#nutshell/17RandomNumber/bin/Debug/net8.0/17RandomNumber.dll
+/Users/gamma/C#nutshell/17RandomNumber/bin/Debug/net8.0/17RandomNumber.pdb
+/Users/gamma/C#nutshell/17RandomNumber/obj/Debug/net8.0/17RandomNumber.dll
+/Users/gamma/C#nutshell/17RandomNumber/obj/Debug/net8.0/refint/17RandomNumber.dll
+/Users/gamma/C#nutshell/17RandomNumber/obj/Debug/net8.0/17RandomNumber.pdb
+/Users/gamma/C#nutshell/17RandomNumber/obj/Debug/net8.0/17RandomNumber.genruntimeconfig.cache
+/Users/gamma/C#nutshell/17RandomNumber/obj/Debug/net8.0/ref/17RandomNumber.dll
