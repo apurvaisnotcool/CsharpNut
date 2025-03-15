@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/7StringMinipulation/obj/Debug/net8.0/7StringMinipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/7StringMinipulation/obj/Debug/net8.0/7StringMinipulation.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/7StringMinipulation/obj/Debug/net8.0/7StringMinipulation.AssemblyInfo.cs
+/Users/gamma/C#nutshell/7StringMinipulation/obj/Debug/net8.0/7StringMinipulation.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/7StringMinipulation/bin/Debug/net8.0/7StringMinipulation
+/Users/gamma/C#nutshell/7StringMinipulation/bin/Debug/net8.0/7StringMinipulation.deps.json
+/Users/gamma/C#nutshell/7StringMinipulation/bin/Debug/net8.0/7StringMinipulation.runtimeconfig.json
+/Users/gamma/C#nutshell/7StringMinipulation/bin/Debug/net8.0/7StringMinipulation.dll
+/Users/gamma/C#nutshell/7StringMinipulation/bin/Debug/net8.0/7StringMinipulation.pdb
+/Users/gamma/C#nutshell/7StringMinipulation/obj/Debug/net8.0/7StringMinipulation.dll
+/Users/gamma/C#nutshell/7StringMinipulation/obj/Debug/net8.0/refint/7StringMinipulation.dll
+/Users/gamma/C#nutshell/7StringMinipulation/obj/Debug/net8.0/7StringMinipulation.pdb
+/Users/gamma/C#nutshell/7StringMinipulation/obj/Debug/net8.0/7StringMinipulation.genruntimeconfig.cache
+/Users/gamma/C#nutshell/7StringMinipulation/obj/Debug/net8.0/ref/7StringMinipulation.dll

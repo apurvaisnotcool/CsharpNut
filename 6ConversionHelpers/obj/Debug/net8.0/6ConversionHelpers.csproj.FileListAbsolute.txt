@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/6ConversionHelpers/obj/Debug/net8.0/6ConversionHelpers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/6ConversionHelpers/obj/Debug/net8.0/6ConversionHelpers.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/6ConversionHelpers/obj/Debug/net8.0/6ConversionHelpers.AssemblyInfo.cs
+/Users/gamma/C#nutshell/6ConversionHelpers/obj/Debug/net8.0/6ConversionHelpers.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/6ConversionHelpers/bin/Debug/net8.0/6ConversionHelpers
+/Users/gamma/C#nutshell/6ConversionHelpers/bin/Debug/net8.0/6ConversionHelpers.deps.json
+/Users/gamma/C#nutshell/6ConversionHelpers/bin/Debug/net8.0/6ConversionHelpers.runtimeconfig.json
+/Users/gamma/C#nutshell/6ConversionHelpers/bin/Debug/net8.0/6ConversionHelpers.dll
+/Users/gamma/C#nutshell/6ConversionHelpers/bin/Debug/net8.0/6ConversionHelpers.pdb
+/Users/gamma/C#nutshell/6ConversionHelpers/obj/Debug/net8.0/6ConversionHelpers.dll
+/Users/gamma/C#nutshell/6ConversionHelpers/obj/Debug/net8.0/refint/6ConversionHelpers.dll
+/Users/gamma/C#nutshell/6ConversionHelpers/obj/Debug/net8.0/6ConversionHelpers.pdb
+/Users/gamma/C#nutshell/6ConversionHelpers/obj/Debug/net8.0/6ConversionHelpers.genruntimeconfig.cache
+/Users/gamma/C#nutshell/6ConversionHelpers/obj/Debug/net8.0/ref/6ConversionHelpers.dll
