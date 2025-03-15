@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/3Addition/bin/Debug/net8.0/3Addition
+/Users/gamma/C#nutshell/3Addition/bin/Debug/net8.0/3Addition.deps.json
+/Users/gamma/C#nutshell/3Addition/bin/Debug/net8.0/3Addition.runtimeconfig.json
+/Users/gamma/C#nutshell/3Addition/bin/Debug/net8.0/3Addition.dll
+/Users/gamma/C#nutshell/3Addition/bin/Debug/net8.0/3Addition.pdb
+/Users/gamma/C#nutshell/3Addition/obj/Debug/net8.0/3Addition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/3Addition/obj/Debug/net8.0/3Addition.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/3Addition/obj/Debug/net8.0/3Addition.AssemblyInfo.cs
+/Users/gamma/C#nutshell/3Addition/obj/Debug/net8.0/3Addition.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/3Addition/obj/Debug/net8.0/3Addition.dll
+/Users/gamma/C#nutshell/3Addition/obj/Debug/net8.0/refint/3Addition.dll
+/Users/gamma/C#nutshell/3Addition/obj/Debug/net8.0/3Addition.pdb
+/Users/gamma/C#nutshell/3Addition/obj/Debug/net8.0/3Addition.genruntimeconfig.cache
+/Users/gamma/C#nutshell/3Addition/obj/Debug/net8.0/ref/3Addition.dll
