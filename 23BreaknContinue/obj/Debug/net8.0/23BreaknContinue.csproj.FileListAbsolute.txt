@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/23BreaknContinue/bin/Debug/net8.0/23BreaknContinue
+/Users/gamma/C#nutshell/23BreaknContinue/bin/Debug/net8.0/23BreaknContinue.deps.json
+/Users/gamma/C#nutshell/23BreaknContinue/bin/Debug/net8.0/23BreaknContinue.runtimeconfig.json
+/Users/gamma/C#nutshell/23BreaknContinue/bin/Debug/net8.0/23BreaknContinue.dll
+/Users/gamma/C#nutshell/23BreaknContinue/bin/Debug/net8.0/23BreaknContinue.pdb
+/Users/gamma/C#nutshell/23BreaknContinue/obj/Debug/net8.0/23BreaknContinue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/23BreaknContinue/obj/Debug/net8.0/23BreaknContinue.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/23BreaknContinue/obj/Debug/net8.0/23BreaknContinue.AssemblyInfo.cs
+/Users/gamma/C#nutshell/23BreaknContinue/obj/Debug/net8.0/23BreaknContinue.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/23BreaknContinue/obj/Debug/net8.0/23BreaknContinue.dll
+/Users/gamma/C#nutshell/23BreaknContinue/obj/Debug/net8.0/refint/23BreaknContinue.dll
+/Users/gamma/C#nutshell/23BreaknContinue/obj/Debug/net8.0/23BreaknContinue.pdb
+/Users/gamma/C#nutshell/23BreaknContinue/obj/Debug/net8.0/23BreaknContinue.genruntimeconfig.cache
+/Users/gamma/C#nutshell/23BreaknContinue/obj/Debug/net8.0/ref/23BreaknContinue.dll

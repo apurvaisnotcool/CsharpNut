@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/24Arrays/bin/Debug/net8.0/24Arrays
+/Users/gamma/C#nutshell/24Arrays/bin/Debug/net8.0/24Arrays.deps.json
+/Users/gamma/C#nutshell/24Arrays/bin/Debug/net8.0/24Arrays.runtimeconfig.json
+/Users/gamma/C#nutshell/24Arrays/bin/Debug/net8.0/24Arrays.dll
+/Users/gamma/C#nutshell/24Arrays/bin/Debug/net8.0/24Arrays.pdb
+/Users/gamma/C#nutshell/24Arrays/obj/Debug/net8.0/24Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/24Arrays/obj/Debug/net8.0/24Arrays.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/24Arrays/obj/Debug/net8.0/24Arrays.AssemblyInfo.cs
+/Users/gamma/C#nutshell/24Arrays/obj/Debug/net8.0/24Arrays.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/24Arrays/obj/Debug/net8.0/24Arrays.dll
+/Users/gamma/C#nutshell/24Arrays/obj/Debug/net8.0/refint/24Arrays.dll
+/Users/gamma/C#nutshell/24Arrays/obj/Debug/net8.0/24Arrays.pdb
+/Users/gamma/C#nutshell/24Arrays/obj/Debug/net8.0/24Arrays.genruntimeconfig.cache
+/Users/gamma/C#nutshell/24Arrays/obj/Debug/net8.0/ref/24Arrays.dll

@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/21DoWhileLoop/bin/Debug/net8.0/21DoWhileLoop
+/Users/gamma/C#nutshell/21DoWhileLoop/bin/Debug/net8.0/21DoWhileLoop.deps.json
+/Users/gamma/C#nutshell/21DoWhileLoop/bin/Debug/net8.0/21DoWhileLoop.runtimeconfig.json
+/Users/gamma/C#nutshell/21DoWhileLoop/bin/Debug/net8.0/21DoWhileLoop.dll
+/Users/gamma/C#nutshell/21DoWhileLoop/bin/Debug/net8.0/21DoWhileLoop.pdb
+/Users/gamma/C#nutshell/21DoWhileLoop/obj/Debug/net8.0/21DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/21DoWhileLoop/obj/Debug/net8.0/21DoWhileLoop.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/21DoWhileLoop/obj/Debug/net8.0/21DoWhileLoop.AssemblyInfo.cs
+/Users/gamma/C#nutshell/21DoWhileLoop/obj/Debug/net8.0/21DoWhileLoop.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/21DoWhileLoop/obj/Debug/net8.0/21DoWhileLoop.dll
+/Users/gamma/C#nutshell/21DoWhileLoop/obj/Debug/net8.0/refint/21DoWhileLoop.dll
+/Users/gamma/C#nutshell/21DoWhileLoop/obj/Debug/net8.0/21DoWhileLoop.pdb
+/Users/gamma/C#nutshell/21DoWhileLoop/obj/Debug/net8.0/21DoWhileLoop.genruntimeconfig.cache
+/Users/gamma/C#nutshell/21DoWhileLoop/obj/Debug/net8.0/ref/21DoWhileLoop.dll

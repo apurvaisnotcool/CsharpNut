@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/22AverageCalculator/bin/Debug/net8.0/22AverageCalculator
+/Users/gamma/C#nutshell/22AverageCalculator/bin/Debug/net8.0/22AverageCalculator.deps.json
+/Users/gamma/C#nutshell/22AverageCalculator/bin/Debug/net8.0/22AverageCalculator.runtimeconfig.json
+/Users/gamma/C#nutshell/22AverageCalculator/bin/Debug/net8.0/22AverageCalculator.dll
+/Users/gamma/C#nutshell/22AverageCalculator/bin/Debug/net8.0/22AverageCalculator.pdb
+/Users/gamma/C#nutshell/22AverageCalculator/obj/Debug/net8.0/22AverageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/22AverageCalculator/obj/Debug/net8.0/22AverageCalculator.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/22AverageCalculator/obj/Debug/net8.0/22AverageCalculator.AssemblyInfo.cs
+/Users/gamma/C#nutshell/22AverageCalculator/obj/Debug/net8.0/22AverageCalculator.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/22AverageCalculator/obj/Debug/net8.0/22AverageCalculator.dll
+/Users/gamma/C#nutshell/22AverageCalculator/obj/Debug/net8.0/refint/22AverageCalculator.dll
+/Users/gamma/C#nutshell/22AverageCalculator/obj/Debug/net8.0/22AverageCalculator.pdb
+/Users/gamma/C#nutshell/22AverageCalculator/obj/Debug/net8.0/22AverageCalculator.genruntimeconfig.cache
+/Users/gamma/C#nutshell/22AverageCalculator/obj/Debug/net8.0/ref/22AverageCalculator.dll
