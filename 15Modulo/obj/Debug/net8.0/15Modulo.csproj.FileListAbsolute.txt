@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/15Modulo/bin/Debug/net8.0/15Modulo
+/Users/gamma/C#nutshell/15Modulo/bin/Debug/net8.0/15Modulo.deps.json
+/Users/gamma/C#nutshell/15Modulo/bin/Debug/net8.0/15Modulo.runtimeconfig.json
+/Users/gamma/C#nutshell/15Modulo/bin/Debug/net8.0/15Modulo.dll
+/Users/gamma/C#nutshell/15Modulo/bin/Debug/net8.0/15Modulo.pdb
+/Users/gamma/C#nutshell/15Modulo/obj/Debug/net8.0/15Modulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/15Modulo/obj/Debug/net8.0/15Modulo.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/15Modulo/obj/Debug/net8.0/15Modulo.AssemblyInfo.cs
+/Users/gamma/C#nutshell/15Modulo/obj/Debug/net8.0/15Modulo.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/15Modulo/obj/Debug/net8.0/15Modulo.dll
+/Users/gamma/C#nutshell/15Modulo/obj/Debug/net8.0/refint/15Modulo.dll
+/Users/gamma/C#nutshell/15Modulo/obj/Debug/net8.0/15Modulo.pdb
+/Users/gamma/C#nutshell/15Modulo/obj/Debug/net8.0/15Modulo.genruntimeconfig.cache
+/Users/gamma/C#nutshell/15Modulo/obj/Debug/net8.0/ref/15Modulo.dll

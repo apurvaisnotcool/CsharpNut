@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/14SwitchStatement/obj/Debug/net8.0/14SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/14SwitchStatement/obj/Debug/net8.0/14SwitchStatement.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/14SwitchStatement/obj/Debug/net8.0/14SwitchStatement.AssemblyInfo.cs
+/Users/gamma/C#nutshell/14SwitchStatement/obj/Debug/net8.0/14SwitchStatement.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/14SwitchStatement/bin/Debug/net8.0/14SwitchStatement
+/Users/gamma/C#nutshell/14SwitchStatement/bin/Debug/net8.0/14SwitchStatement.deps.json
+/Users/gamma/C#nutshell/14SwitchStatement/bin/Debug/net8.0/14SwitchStatement.runtimeconfig.json
+/Users/gamma/C#nutshell/14SwitchStatement/bin/Debug/net8.0/14SwitchStatement.dll
+/Users/gamma/C#nutshell/14SwitchStatement/bin/Debug/net8.0/14SwitchStatement.pdb
+/Users/gamma/C#nutshell/14SwitchStatement/obj/Debug/net8.0/14SwitchStatement.dll
+/Users/gamma/C#nutshell/14SwitchStatement/obj/Debug/net8.0/refint/14SwitchStatement.dll
+/Users/gamma/C#nutshell/14SwitchStatement/obj/Debug/net8.0/14SwitchStatement.pdb
+/Users/gamma/C#nutshell/14SwitchStatement/obj/Debug/net8.0/14SwitchStatement.genruntimeconfig.cache
+/Users/gamma/C#nutshell/14SwitchStatement/obj/Debug/net8.0/ref/14SwitchStatement.dll

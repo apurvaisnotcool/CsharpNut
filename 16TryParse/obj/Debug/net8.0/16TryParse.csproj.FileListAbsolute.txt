@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/16TryParse/obj/Debug/net8.0/16TryParse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/16TryParse/obj/Debug/net8.0/16TryParse.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/16TryParse/obj/Debug/net8.0/16TryParse.AssemblyInfo.cs
+/Users/gamma/C#nutshell/16TryParse/obj/Debug/net8.0/16TryParse.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/16TryParse/bin/Debug/net8.0/16TryParse
+/Users/gamma/C#nutshell/16TryParse/bin/Debug/net8.0/16TryParse.deps.json
+/Users/gamma/C#nutshell/16TryParse/bin/Debug/net8.0/16TryParse.runtimeconfig.json
+/Users/gamma/C#nutshell/16TryParse/bin/Debug/net8.0/16TryParse.dll
+/Users/gamma/C#nutshell/16TryParse/bin/Debug/net8.0/16TryParse.pdb
+/Users/gamma/C#nutshell/16TryParse/obj/Debug/net8.0/16TryParse.dll
+/Users/gamma/C#nutshell/16TryParse/obj/Debug/net8.0/refint/16TryParse.dll
+/Users/gamma/C#nutshell/16TryParse/obj/Debug/net8.0/16TryParse.pdb
+/Users/gamma/C#nutshell/16TryParse/obj/Debug/net8.0/16TryParse.genruntimeconfig.cache
+/Users/gamma/C#nutshell/16TryParse/obj/Debug/net8.0/ref/16TryParse.dll
