@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/4ImplicitConversion/bin/Debug/net8.0/4ImplicitConversion
+/Users/gamma/C#nutshell/4ImplicitConversion/bin/Debug/net8.0/4ImplicitConversion.deps.json
+/Users/gamma/C#nutshell/4ImplicitConversion/bin/Debug/net8.0/4ImplicitConversion.runtimeconfig.json
+/Users/gamma/C#nutshell/4ImplicitConversion/bin/Debug/net8.0/4ImplicitConversion.dll
+/Users/gamma/C#nutshell/4ImplicitConversion/bin/Debug/net8.0/4ImplicitConversion.pdb
+/Users/gamma/C#nutshell/4ImplicitConversion/obj/Debug/net8.0/4ImplicitConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/4ImplicitConversion/obj/Debug/net8.0/4ImplicitConversion.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/4ImplicitConversion/obj/Debug/net8.0/4ImplicitConversion.AssemblyInfo.cs
+/Users/gamma/C#nutshell/4ImplicitConversion/obj/Debug/net8.0/4ImplicitConversion.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/4ImplicitConversion/obj/Debug/net8.0/4ImplicitConversion.dll
+/Users/gamma/C#nutshell/4ImplicitConversion/obj/Debug/net8.0/refint/4ImplicitConversion.dll
+/Users/gamma/C#nutshell/4ImplicitConversion/obj/Debug/net8.0/4ImplicitConversion.pdb
+/Users/gamma/C#nutshell/4ImplicitConversion/obj/Debug/net8.0/4ImplicitConversion.genruntimeconfig.cache
+/Users/gamma/C#nutshell/4ImplicitConversion/obj/Debug/net8.0/ref/4ImplicitConversion.dll

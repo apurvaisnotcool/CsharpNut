@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/5ExplicitConversion/bin/Debug/net8.0/5ExplicitConversion
+/Users/gamma/C#nutshell/5ExplicitConversion/bin/Debug/net8.0/5ExplicitConversion.deps.json
+/Users/gamma/C#nutshell/5ExplicitConversion/bin/Debug/net8.0/5ExplicitConversion.runtimeconfig.json
+/Users/gamma/C#nutshell/5ExplicitConversion/bin/Debug/net8.0/5ExplicitConversion.dll
+/Users/gamma/C#nutshell/5ExplicitConversion/bin/Debug/net8.0/5ExplicitConversion.pdb
+/Users/gamma/C#nutshell/5ExplicitConversion/obj/Debug/net8.0/5ExplicitConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/5ExplicitConversion/obj/Debug/net8.0/5ExplicitConversion.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/5ExplicitConversion/obj/Debug/net8.0/5ExplicitConversion.AssemblyInfo.cs
+/Users/gamma/C#nutshell/5ExplicitConversion/obj/Debug/net8.0/5ExplicitConversion.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/5ExplicitConversion/obj/Debug/net8.0/5ExplicitConversion.dll
+/Users/gamma/C#nutshell/5ExplicitConversion/obj/Debug/net8.0/refint/5ExplicitConversion.dll
+/Users/gamma/C#nutshell/5ExplicitConversion/obj/Debug/net8.0/5ExplicitConversion.pdb
+/Users/gamma/C#nutshell/5ExplicitConversion/obj/Debug/net8.0/5ExplicitConversion.genruntimeconfig.cache
+/Users/gamma/C#nutshell/5ExplicitConversion/obj/Debug/net8.0/ref/5ExplicitConversion.dll
