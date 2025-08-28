@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/30Class_n_Objects/bin/Debug/net8.0/30Class_n_Objects
+/Users/gamma/C#nutshell/30Class_n_Objects/bin/Debug/net8.0/30Class_n_Objects.deps.json
+/Users/gamma/C#nutshell/30Class_n_Objects/bin/Debug/net8.0/30Class_n_Objects.runtimeconfig.json
+/Users/gamma/C#nutshell/30Class_n_Objects/bin/Debug/net8.0/30Class_n_Objects.dll
+/Users/gamma/C#nutshell/30Class_n_Objects/bin/Debug/net8.0/30Class_n_Objects.pdb
+/Users/gamma/C#nutshell/30Class_n_Objects/obj/Debug/net8.0/30Class_n_Objects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/30Class_n_Objects/obj/Debug/net8.0/30Class_n_Objects.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/30Class_n_Objects/obj/Debug/net8.0/30Class_n_Objects.AssemblyInfo.cs
+/Users/gamma/C#nutshell/30Class_n_Objects/obj/Debug/net8.0/30Class_n_Objects.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/30Class_n_Objects/obj/Debug/net8.0/30Class_n_Objects.dll
+/Users/gamma/C#nutshell/30Class_n_Objects/obj/Debug/net8.0/refint/30Class_n_Objects.dll
+/Users/gamma/C#nutshell/30Class_n_Objects/obj/Debug/net8.0/30Class_n_Objects.pdb
+/Users/gamma/C#nutshell/30Class_n_Objects/obj/Debug/net8.0/30Class_n_Objects.genruntimeconfig.cache
+/Users/gamma/C#nutshell/30Class_n_Objects/obj/Debug/net8.0/ref/30Class_n_Objects.dll
