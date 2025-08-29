@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/32Dictionaries/bin/Debug/net8.0/32Dictionaries
+/Users/gamma/C#nutshell/32Dictionaries/bin/Debug/net8.0/32Dictionaries.deps.json
+/Users/gamma/C#nutshell/32Dictionaries/bin/Debug/net8.0/32Dictionaries.runtimeconfig.json
+/Users/gamma/C#nutshell/32Dictionaries/bin/Debug/net8.0/32Dictionaries.dll
+/Users/gamma/C#nutshell/32Dictionaries/bin/Debug/net8.0/32Dictionaries.pdb
+/Users/gamma/C#nutshell/32Dictionaries/obj/Debug/net8.0/32Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/32Dictionaries/obj/Debug/net8.0/32Dictionaries.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/32Dictionaries/obj/Debug/net8.0/32Dictionaries.AssemblyInfo.cs
+/Users/gamma/C#nutshell/32Dictionaries/obj/Debug/net8.0/32Dictionaries.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/32Dictionaries/obj/Debug/net8.0/32Dictionaries.dll
+/Users/gamma/C#nutshell/32Dictionaries/obj/Debug/net8.0/refint/32Dictionaries.dll
+/Users/gamma/C#nutshell/32Dictionaries/obj/Debug/net8.0/32Dictionaries.pdb
+/Users/gamma/C#nutshell/32Dictionaries/obj/Debug/net8.0/32Dictionaries.genruntimeconfig.cache
+/Users/gamma/C#nutshell/32Dictionaries/obj/Debug/net8.0/ref/32Dictionaries.dll

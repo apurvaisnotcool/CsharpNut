@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/31Collections/bin/Debug/net8.0/31Collections
+/Users/gamma/C#nutshell/31Collections/bin/Debug/net8.0/31Collections.deps.json
+/Users/gamma/C#nutshell/31Collections/bin/Debug/net8.0/31Collections.runtimeconfig.json
+/Users/gamma/C#nutshell/31Collections/bin/Debug/net8.0/31Collections.dll
+/Users/gamma/C#nutshell/31Collections/bin/Debug/net8.0/31Collections.pdb
+/Users/gamma/C#nutshell/31Collections/obj/Debug/net8.0/31Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/31Collections/obj/Debug/net8.0/31Collections.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/31Collections/obj/Debug/net8.0/31Collections.AssemblyInfo.cs
+/Users/gamma/C#nutshell/31Collections/obj/Debug/net8.0/31Collections.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/31Collections/obj/Debug/net8.0/31Collections.dll
+/Users/gamma/C#nutshell/31Collections/obj/Debug/net8.0/refint/31Collections.dll
+/Users/gamma/C#nutshell/31Collections/obj/Debug/net8.0/31Collections.pdb
+/Users/gamma/C#nutshell/31Collections/obj/Debug/net8.0/31Collections.genruntimeconfig.cache
+/Users/gamma/C#nutshell/31Collections/obj/Debug/net8.0/ref/31Collections.dll
