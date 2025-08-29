@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/NumberAdd/bin/Debug/net8.0/NumberAdd
+/Users/gamma/C#nutshell/NumberAdd/bin/Debug/net8.0/NumberAdd.deps.json
+/Users/gamma/C#nutshell/NumberAdd/bin/Debug/net8.0/NumberAdd.runtimeconfig.json
+/Users/gamma/C#nutshell/NumberAdd/bin/Debug/net8.0/NumberAdd.dll
+/Users/gamma/C#nutshell/NumberAdd/bin/Debug/net8.0/NumberAdd.pdb
+/Users/gamma/C#nutshell/NumberAdd/obj/Debug/net8.0/NumberAdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/NumberAdd/obj/Debug/net8.0/NumberAdd.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/NumberAdd/obj/Debug/net8.0/NumberAdd.AssemblyInfo.cs
+/Users/gamma/C#nutshell/NumberAdd/obj/Debug/net8.0/NumberAdd.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/NumberAdd/obj/Debug/net8.0/NumberAdd.dll
+/Users/gamma/C#nutshell/NumberAdd/obj/Debug/net8.0/refint/NumberAdd.dll
+/Users/gamma/C#nutshell/NumberAdd/obj/Debug/net8.0/NumberAdd.pdb
+/Users/gamma/C#nutshell/NumberAdd/obj/Debug/net8.0/NumberAdd.genruntimeconfig.cache
+/Users/gamma/C#nutshell/NumberAdd/obj/Debug/net8.0/ref/NumberAdd.dll
