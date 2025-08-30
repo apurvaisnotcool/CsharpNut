@@ -36,8 +36,8 @@ class Program
         Than the Employee Constructor is Called 
         */
         kira.DisplayPersonInfo();
-        //Here the Kira Employee calls the DisplayPersonInfo Function which has the Assigned Name 
-        //and Age
+        //Object Kira calls the DisplayEmployeeInfo Method that calls the DisplayPersonInfo
+        //Kira has access to DisplayPersonInfo Method because Employee Inherits from Person Class
         Manager carl = new Manager("carl", 36, "Manager", 123, 7);
         carl.DisplayManagerInfo();
     }
@@ -108,5 +108,6 @@ public class Manager : Employee
 }
 
 //End of Program     
+
 
 
