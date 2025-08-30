@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/34Inheritance2/bin/Debug/net8.0/34Inheritance2
+/Users/gamma/C#nutshell/34Inheritance2/bin/Debug/net8.0/34Inheritance2.deps.json
+/Users/gamma/C#nutshell/34Inheritance2/bin/Debug/net8.0/34Inheritance2.runtimeconfig.json
+/Users/gamma/C#nutshell/34Inheritance2/bin/Debug/net8.0/34Inheritance2.dll
+/Users/gamma/C#nutshell/34Inheritance2/bin/Debug/net8.0/34Inheritance2.pdb
+/Users/gamma/C#nutshell/34Inheritance2/obj/Debug/net8.0/34Inheritance2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/34Inheritance2/obj/Debug/net8.0/34Inheritance2.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/34Inheritance2/obj/Debug/net8.0/34Inheritance2.AssemblyInfo.cs
+/Users/gamma/C#nutshell/34Inheritance2/obj/Debug/net8.0/34Inheritance2.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/34Inheritance2/obj/Debug/net8.0/34Inheritance2.dll
+/Users/gamma/C#nutshell/34Inheritance2/obj/Debug/net8.0/refint/34Inheritance2.dll
+/Users/gamma/C#nutshell/34Inheritance2/obj/Debug/net8.0/34Inheritance2.pdb
+/Users/gamma/C#nutshell/34Inheritance2/obj/Debug/net8.0/34Inheritance2.genruntimeconfig.cache
+/Users/gamma/C#nutshell/34Inheritance2/obj/Debug/net8.0/ref/34Inheritance2.dll
