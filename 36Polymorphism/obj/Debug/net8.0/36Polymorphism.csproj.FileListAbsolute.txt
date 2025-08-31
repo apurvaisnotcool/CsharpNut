@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/36Polymorphism/bin/Debug/net8.0/36Polymorphism
+/Users/gamma/C#nutshell/36Polymorphism/bin/Debug/net8.0/36Polymorphism.deps.json
+/Users/gamma/C#nutshell/36Polymorphism/bin/Debug/net8.0/36Polymorphism.runtimeconfig.json
+/Users/gamma/C#nutshell/36Polymorphism/bin/Debug/net8.0/36Polymorphism.dll
+/Users/gamma/C#nutshell/36Polymorphism/bin/Debug/net8.0/36Polymorphism.pdb
+/Users/gamma/C#nutshell/36Polymorphism/obj/Debug/net8.0/36Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/36Polymorphism/obj/Debug/net8.0/36Polymorphism.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/36Polymorphism/obj/Debug/net8.0/36Polymorphism.AssemblyInfo.cs
+/Users/gamma/C#nutshell/36Polymorphism/obj/Debug/net8.0/36Polymorphism.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/36Polymorphism/obj/Debug/net8.0/36Polymorphism.dll
+/Users/gamma/C#nutshell/36Polymorphism/obj/Debug/net8.0/refint/36Polymorphism.dll
+/Users/gamma/C#nutshell/36Polymorphism/obj/Debug/net8.0/36Polymorphism.pdb
+/Users/gamma/C#nutshell/36Polymorphism/obj/Debug/net8.0/36Polymorphism.genruntimeconfig.cache
+/Users/gamma/C#nutshell/36Polymorphism/obj/Debug/net8.0/ref/36Polymorphism.dll
