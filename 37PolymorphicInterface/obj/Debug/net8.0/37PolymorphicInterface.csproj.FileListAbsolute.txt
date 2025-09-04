@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/37PolymorphicInterface/bin/Debug/net8.0/37PolymorphicInterface
+/Users/gamma/C#nutshell/37PolymorphicInterface/bin/Debug/net8.0/37PolymorphicInterface.deps.json
+/Users/gamma/C#nutshell/37PolymorphicInterface/bin/Debug/net8.0/37PolymorphicInterface.runtimeconfig.json
+/Users/gamma/C#nutshell/37PolymorphicInterface/bin/Debug/net8.0/37PolymorphicInterface.dll
+/Users/gamma/C#nutshell/37PolymorphicInterface/bin/Debug/net8.0/37PolymorphicInterface.pdb
+/Users/gamma/C#nutshell/37PolymorphicInterface/obj/Debug/net8.0/37PolymorphicInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/37PolymorphicInterface/obj/Debug/net8.0/37PolymorphicInterface.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/37PolymorphicInterface/obj/Debug/net8.0/37PolymorphicInterface.AssemblyInfo.cs
+/Users/gamma/C#nutshell/37PolymorphicInterface/obj/Debug/net8.0/37PolymorphicInterface.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/37PolymorphicInterface/obj/Debug/net8.0/37PolymorphicInterface.dll
+/Users/gamma/C#nutshell/37PolymorphicInterface/obj/Debug/net8.0/refint/37PolymorphicInterface.dll
+/Users/gamma/C#nutshell/37PolymorphicInterface/obj/Debug/net8.0/37PolymorphicInterface.pdb
+/Users/gamma/C#nutshell/37PolymorphicInterface/obj/Debug/net8.0/37PolymorphicInterface.genruntimeconfig.cache
+/Users/gamma/C#nutshell/37PolymorphicInterface/obj/Debug/net8.0/ref/37PolymorphicInterface.dll

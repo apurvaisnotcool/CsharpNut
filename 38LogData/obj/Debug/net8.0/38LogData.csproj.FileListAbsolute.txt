@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/38LogData/bin/Debug/net8.0/38LogData
+/Users/gamma/C#nutshell/38LogData/bin/Debug/net8.0/38LogData.deps.json
+/Users/gamma/C#nutshell/38LogData/bin/Debug/net8.0/38LogData.runtimeconfig.json
+/Users/gamma/C#nutshell/38LogData/bin/Debug/net8.0/38LogData.dll
+/Users/gamma/C#nutshell/38LogData/bin/Debug/net8.0/38LogData.pdb
+/Users/gamma/C#nutshell/38LogData/obj/Debug/net8.0/38LogData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/38LogData/obj/Debug/net8.0/38LogData.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/38LogData/obj/Debug/net8.0/38LogData.AssemblyInfo.cs
+/Users/gamma/C#nutshell/38LogData/obj/Debug/net8.0/38LogData.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/38LogData/obj/Debug/net8.0/38LogData.dll
+/Users/gamma/C#nutshell/38LogData/obj/Debug/net8.0/refint/38LogData.dll
+/Users/gamma/C#nutshell/38LogData/obj/Debug/net8.0/38LogData.pdb
+/Users/gamma/C#nutshell/38LogData/obj/Debug/net8.0/38LogData.genruntimeconfig.cache
+/Users/gamma/C#nutshell/38LogData/obj/Debug/net8.0/ref/38LogData.dll
