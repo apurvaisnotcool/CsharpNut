@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/39DependancyInjection/bin/Debug/net8.0/39DependancyInjection
+/Users/gamma/C#nutshell/39DependancyInjection/bin/Debug/net8.0/39DependancyInjection.deps.json
+/Users/gamma/C#nutshell/39DependancyInjection/bin/Debug/net8.0/39DependancyInjection.runtimeconfig.json
+/Users/gamma/C#nutshell/39DependancyInjection/bin/Debug/net8.0/39DependancyInjection.dll
+/Users/gamma/C#nutshell/39DependancyInjection/bin/Debug/net8.0/39DependancyInjection.pdb
+/Users/gamma/C#nutshell/39DependancyInjection/obj/Debug/net8.0/39DependancyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/39DependancyInjection/obj/Debug/net8.0/39DependancyInjection.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/39DependancyInjection/obj/Debug/net8.0/39DependancyInjection.AssemblyInfo.cs
+/Users/gamma/C#nutshell/39DependancyInjection/obj/Debug/net8.0/39DependancyInjection.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/39DependancyInjection/obj/Debug/net8.0/39DependancyInjection.dll
+/Users/gamma/C#nutshell/39DependancyInjection/obj/Debug/net8.0/refint/39DependancyInjection.dll
+/Users/gamma/C#nutshell/39DependancyInjection/obj/Debug/net8.0/39DependancyInjection.pdb
+/Users/gamma/C#nutshell/39DependancyInjection/obj/Debug/net8.0/39DependancyInjection.genruntimeconfig.cache
+/Users/gamma/C#nutshell/39DependancyInjection/obj/Debug/net8.0/ref/39DependancyInjection.dll
