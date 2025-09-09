@@ -1,0 +1,14 @@
+/Users/gamma/C#nutshell/40Structs/bin/Debug/net8.0/40Structs
+/Users/gamma/C#nutshell/40Structs/bin/Debug/net8.0/40Structs.deps.json
+/Users/gamma/C#nutshell/40Structs/bin/Debug/net8.0/40Structs.runtimeconfig.json
+/Users/gamma/C#nutshell/40Structs/bin/Debug/net8.0/40Structs.dll
+/Users/gamma/C#nutshell/40Structs/bin/Debug/net8.0/40Structs.pdb
+/Users/gamma/C#nutshell/40Structs/obj/Debug/net8.0/40Structs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#nutshell/40Structs/obj/Debug/net8.0/40Structs.AssemblyInfoInputs.cache
+/Users/gamma/C#nutshell/40Structs/obj/Debug/net8.0/40Structs.AssemblyInfo.cs
+/Users/gamma/C#nutshell/40Structs/obj/Debug/net8.0/40Structs.csproj.CoreCompileInputs.cache
+/Users/gamma/C#nutshell/40Structs/obj/Debug/net8.0/40Structs.dll
+/Users/gamma/C#nutshell/40Structs/obj/Debug/net8.0/refint/40Structs.dll
+/Users/gamma/C#nutshell/40Structs/obj/Debug/net8.0/40Structs.pdb
+/Users/gamma/C#nutshell/40Structs/obj/Debug/net8.0/40Structs.genruntimeconfig.cache
+/Users/gamma/C#nutshell/40Structs/obj/Debug/net8.0/ref/40Structs.dll
